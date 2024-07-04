@@ -19,7 +19,7 @@ A simple React app to track the number of chai cups consumed. The app includes b
 
     ```bash
     git clone https://github.com/akshar625/Chai_Counter-React.git
-    cd chai-aur-counter
+    cd Chai_Counter-React
     ```
 
 2. Install the dependencies:
